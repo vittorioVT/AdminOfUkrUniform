@@ -62,5 +62,9 @@
     <Build Include="Users.sql" />
     <Build Include="ProductItems.sql" />
     <Build Include="Orders.sql" />
+    <Build Include="OrdersDetail.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="UkrUniformDB.refactorlog" />
   </ItemGroup>
 </Project>
