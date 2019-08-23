@@ -66,6 +66,7 @@
     <Build Include="ProdurctSpecifications.sql" />
     <Build Include="NatureProduction.sql" />
     <Build Include="sp_Products_Select.sql" />
+    <Build Include="sp_Product_Summary.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="UkrUniformDB.refactorlog" />
